@@ -1,0 +1,11 @@
+site_name: Project Olly Documentation
+nav:
+    - Home: index.md
+    - Single Elimination Tournaments: singletournaments.md
+    - Support: support.md
+    - Teams: teams.md
+    - Staff Panel: staff.md
+    - Profiles: profiles.md
+    - Matches: matches.md
+    - News: news.md
+theme: readthedocs
