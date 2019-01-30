@@ -1,43 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/matches/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/news/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/profiles/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/singletournaments/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/staff/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/support/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
+     <loc>/teams/</loc>
      <lastmod>2019-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
 </urlset>
