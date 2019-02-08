@@ -16,6 +16,16 @@ Slug: Slug's are required for the news post to be created. Quite simply they are
 www.example.com/news/my-awesome-slug
 ###### Slugs must not have any spaces, but can contain _'s and -'s
 
+Body: Simply the body of text. And yes. Linebreaks do account when the news post on the front end, so we don't recommend typing one massive paragraph, maybe hit that enter button a few times and space things out with some empty lines?
+
+Publish: Simply going to show the day that the news post was published on
+
+Status: Simply tells the system whether or not to show the post on the front end.
+Private - Private (not shown on frontend)
+Draft - Private (not shown on frontend)
+Publisheds - Public (shown on frontend)
+
+Lastly hit that good ol Post button and it will post your news article for you. 
 ---
 
 # Users
