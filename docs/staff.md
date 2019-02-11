@@ -21,11 +21,12 @@ Body: Simply the body of text. And yes. Linebreaks do account when the news post
 Publish: Simply going to show the day that the news post was published on
 
 Status: Simply tells the system whether or not to show the post on the front end.
-Private - Private (not shown on frontend)
-Draft - Private (not shown on frontend)
-Publisheds - Public (shown on frontend)
+Private: Private (not shown on frontend)
+Draft: Private (not shown on frontend)
+Publisheds: Public (shown on frontend)
 
 Lastly hit that good ol Post button and it will post your news article for you. 
+
 ---
 
 # Users
