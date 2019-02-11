@@ -5,7 +5,7 @@
 # News
 When you first navigate to this section of the Staff panel you will be prompted with a list of all current news posts that exist within the database. 
 
-##### Creating a new News Post
+###### Creating a new News Post
 Simply click on the "Create a new article" button at the bottom of the news list page. Doing so will redirect you to new page where you will enter the information about the news post.
 
 Title: Simply the title that you want to appear on the front page. We reccomend for styling purposes that you don't let it go on too long.
