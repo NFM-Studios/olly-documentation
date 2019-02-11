@@ -1,6 +1,7 @@
 site_name: Project Olly Documentation
 nav:
     - Home: index.md
+    - Changelog: changelog.md
     - Single Elimination Tournaments: singletournaments.md
     - Support: support.md
     - Teams: teams.md
