@@ -9,4 +9,5 @@ nav:
     - Profiles: profiles.md
     - Matches: matches.md
     - News: news.md
+    - Wagers: wagers.md
 theme: readthedocs
