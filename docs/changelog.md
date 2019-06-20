@@ -1,5 +1,20 @@
 ## Project Olly Changelog
 
+# 2019.6.1
+* Added object based tournament sorting
+* Updated framework to support the latest version (Django 2.2)
+* Move SocialInfo out of StaticInfo to improve speed performance
+* Added SocialInfo middleware
+* Streamline adding credits to the store via the staff panel
+* Merge edit user type and modify user forms into one
+* Added Delete News Posts in staff panel
+* Fixed FA Map icon not showing up in staff navbar
+* Fixed gray bar in staff panel (breadcrumbs broke)
+* Show number of open tickets on staff index
+* Implemented fix for timezones and tournament registration
+* Added latest build of Wagers (still in active development)
+* Added Object Based Map Pools
+
 # 2019.3.2
 * Object based support ticket categories #525
 * (Custom) Mailchimp integration #518
