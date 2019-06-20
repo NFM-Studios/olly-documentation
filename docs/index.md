@@ -16,16 +16,18 @@ So you just got your brand new Project Olly instance and are ready to get rollin
 ## Project layout
 The project is broken down to functionality, or what the development team calls applications. Each application is built to accomplish one goal at a time to ensure everything remains organized.
 
-Single Elimination Tournaments - Involve Single Elimination Tournaments
+Single Elimination Tournaments - Includes Single Elimination Tournaments, structure and functionality
 
-News - Involve News Posts/Articles
+News - Includes News Posts/Articles
 
-Profiles - Include user registration, basic user information, and user profiles
+Profiles - Includes user registration, basic user information, and user profiles
 
-Staff - Include Staff Panel Functionality for staff users.
+Staff - Includes Staff Panel Functionality for staff users.
 
-Support - Include information regarding the built in support system
+Support - Includes information regarding the built in support system
 
-Teams - Include information about Teams, team management, and team invites
+Teams - Includes information about Teams, team management, and team invites
 
-Matches - Include information about all matches, across tournaments, wagers and more!
+Matches - Includes information about all matches, across tournaments, wagers and more!
+
+Wagers - Includes information about WagerRequests, WagerChallenges, and WagerMatches
